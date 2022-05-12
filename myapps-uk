@@ -1,0 +1,15 @@
+# Unknows buckets
+
+# Auto Dark Mode
+scoop bucket add chawyehsu_dorado https://github.com/chawyehsu/dorado
+# scoop bucket add ivaquero_scoopet https://github.com/ivaquero/scoopet
+scoop install autodarkmode
+
+# Evernote
+scoop bucket add kidonng_sushi https://github.com/kidonng/sushi
+scoop install evernote
+
+# Nomachine (non-portable)
+scoop bucket add ACooper81_scoop-apps https://github.com/ACooper81/scoop-apps
+scoop install NoMachine-Install
+

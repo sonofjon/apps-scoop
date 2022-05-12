@@ -25,17 +25,12 @@ scoop install dotnet-sdk
 # Media
 scoop install mpv plex-desktop spotify vlc
 
-# PIM
-# scoop install evernote   # only available in unknown buckets
-
 # Tools
 #   TODO: Not available:
 #     moo0-system-monitor
-#     nomachine
 #     purevpn
 #     spideroak
 #     unified-remote
-# scoop install AutoDarkMode   # only available in unknown buckets
 scoop install autohotkey bitwarden barrier ccleaner powertoys
 
 # Web
