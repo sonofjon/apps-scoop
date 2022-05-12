@@ -1,0 +1,14 @@
+# Non-portable apps
+
+# Buckets
+scoop bucket add nonportable
+
+# Files
+#  TODO: dropbox-np is nightly build
+scoop install dropbox-np 
+
+# Library
+scoop install vcredist2022
+
+# Tools
+scoop virtualbox-np
