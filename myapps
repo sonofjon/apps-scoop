@@ -4,7 +4,8 @@
 scoop bucket add extras
 
 # Scoop
-scoop install git 7zip sudo dark innounp
+scoop install git 7zip
+scoop install sudo dark innounp aria2
 
 # Communication
 scoop install microsoft-teams zoom
