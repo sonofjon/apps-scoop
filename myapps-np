@@ -11,4 +11,5 @@ scoop install dropbox-np
 scoop install vcredist2022
 
 # Tools
+#   TODO: install failed
 scoop virtualbox-np
