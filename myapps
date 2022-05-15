@@ -31,7 +31,7 @@ scoop install mpv plex-desktop spotify vlc
 #     purevpn
 #     spideroak
 #     unified-remote
-scoop install autohotkey bitwarden barrier ccleaner powertoys
+scoop install autohotkey bitwarden barrier ccleaner powertoys virt-viewer
 
 # Web
 scoop install googlechrome firefox
