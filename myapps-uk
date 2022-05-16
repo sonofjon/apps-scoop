@@ -1,4 +1,4 @@
-# Unknows buckets
+# Unknown buckets
 
 # Auto Dark Mode
 scoop bucket add chawyehsu_dorado https://github.com/chawyehsu/dorado
@@ -14,3 +14,7 @@ scoop install evernote
 scoop bucket add ACooper81_scoop-apps https://github.com/ACooper81/scoop-apps
 scoop install NoMachine-Install
 
+# Adobe Acrobat (non-portable)
+#   TODO: fails on install
+# scoop bucket add ACooper81_scoop-apps https://github.com/ACooper81/scoop-apps
+scoop install AdobeAcrobatReader-Install
