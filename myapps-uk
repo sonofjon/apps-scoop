@@ -6,8 +6,8 @@ scoop bucket add chawyehsu_dorado https://github.com/chawyehsu/dorado
 scoop install autodarkmode
 
 # Evernote
-#   TODO: doesn't start
-scoop bucket add kidonng_sushi https://github.com/kidonng/sushi
+# scoop bucket add kidonng_sushi https://github.com/kidonng/sushi
+scoop bucket add wzv5_ScoopBucket https://github.com/wzv5/ScoopBucket
 scoop install evernote
 
 # Nomachine (non-portable)
