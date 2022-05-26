@@ -12,4 +12,4 @@ scoop install vcredist2022
 
 # Tools
 #   TODO: install failed
-scoop virtualbox-np
+scoop install virtualbox-np
