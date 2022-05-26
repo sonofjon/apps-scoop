@@ -1,0 +1,18 @@
+# Main
+#
+# Apps only needed on main machine.
+#
+# TODO:
+#   Not available:
+#     Garmin Express
+#     MediaMonkey
+#     iTunes
+
+# Buckets
+scoop bucket add extras
+
+# Misc
+scoop install calibre picard thunderbird
+
+# My bucket
+scoop install https://raw.githubusercontent.com/sonofjon/scoop-bucket/main/unified-remote.json
