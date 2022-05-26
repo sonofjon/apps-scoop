@@ -26,12 +26,17 @@ scoop install dotnet-sdk
 scoop install mpv plex-desktop spotify vlc
 
 # Tools
-#   TODO: Not available:
-#     moo0-system-monitor
-#     purevpn
-#     spideroak
-#     unified-remote
+#   TODO:
+#     Not available:
+#       Microsoft Remote Desktop
+#       Moo0 System Monitor
+#       PureVPN
+#       SpiderOak
+#       Unified Remote
 scoop install autohotkey bitwarden barrier ccleaner nmap powertoys virt-viewer
 
 # Web
 scoop install googlechrome firefox
+
+# My bucket
+scoop install https://raw.githubusercontent.com/sonofjon/scoop-bucket/main/moo0-system-monitor.json
