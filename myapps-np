@@ -4,13 +4,11 @@
 scoop bucket add nonportable
 
 # Files
-#  TODO: dropbox-np is nightly build
 scoop install dropbox-np 
 
 # Library
 scoop install vcredist2022
 
 # Tools
-#   TODO: install failed
 scoop install virtualbox-np
 # scoop install virtualbox-with-extension-pack-np
