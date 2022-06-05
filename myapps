@@ -12,7 +12,7 @@ scoop install scoop-completion
 scoop install microsoft-teams zoom
 
 # Dev
-scoop install vscode windows-terminal
+scoop install sqlitebrowser vscode windows-terminal
 
 # Downloads
 scoop install qbittorrent webtorrent
