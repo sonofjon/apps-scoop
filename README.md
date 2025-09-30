@@ -1,2 +1,2 @@
-# scoop-apps
+# apps-scoop
 My Windows applications
